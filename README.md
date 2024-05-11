@@ -5,7 +5,7 @@ Un bootcamp es un curso intensivo de programación de 2 semanas que lleva a nues
 
 | Día | Tema | Enlace |
 | --- | --- | --- |
-| #1 | **Introducción a Python** <br> Temas: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones); introducción a condicionales.| [Día 1](https://github.com/penguin-academy/curriculo_codepro/blob/main/dia-1.ipynb #2 | **Pensamiento Computacional** <br> Temas: condicionales. Review con el inicio del proyecto Wordle en Python: variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas.| [Día 2]() |
+| #1 | **Introducción a Python** <br> Temas: variables; tipos de datos; operaciones aritméticas; concatenación; `input()`; funciones; alcance (funciones); introducción a condicionales.| [Día 1#2 | **Pensamiento Computacional** <br> Temas: condicionales. Review con el inicio del proyecto Wordle en Python: variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas.| [Día 2]() |
 | #3 | **Hazlo Funcionar** <br> Temas: listas; bucles `for` y `while`. Continuación y finalización del proyecto Wordle en Python: variables; tipos de datos; concatenación; operadores lógicos; condicionales; funciones (parámetros y argumentos); funciones built-in; listas.| [Día 3]() |#
 | #4 | **Workshop: IoT** <br> Temas: . | [Día 4]() |
 | #5 | **Objetos & Diccionarios** <br> Temas: conceptos de programación orientada a objetos (clases, objetos, atributos, métodos, herencia). Diccionarios. | [Día 5]() |
