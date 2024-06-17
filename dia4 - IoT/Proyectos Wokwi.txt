@@ -1,0 +1,23 @@
+// Led
+
+https://wokwi.com/projects/397975376312299521
+
+// Semaforo
+
+https://wokwi.com/projects/397976948390051841
+
+// Potenciometro
+
+https://wokwi.com/projects/397975255538355201
+
+// Led Analogo
+
+https://wokwi.com/projects/397975626463757313
+
+// Bocina
+
+https://wokwi.com/projects/397975998057136129
+
+// Monitor
+
+https://wokwi.com/projects/397976289862237185
